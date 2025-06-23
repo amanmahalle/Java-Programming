@@ -21,7 +21,7 @@ Run the code using any Java IDE like IntelliJ, Eclipse, or even online compilers
 ---
 
 ## 🚀 My Learning Goal
-I am solving 2-3 coding problems daily to:
+I am solving 1-2 coding problems daily to:
 - Improve my DSA skills
 - Prepare for placements
 - Stay consistent in learning
