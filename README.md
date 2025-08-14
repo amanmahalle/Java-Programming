@@ -8,6 +8,7 @@ This repository contains my **daily Java coding practice**, currently focused on
 ## 📚 Topics Covered
 - ✅ Arrays
 - ✅ Strings
+- ✅ Patterns
 - 🔜 Sorting
 - 🔜 Searching
 - 🔜 Recursion
